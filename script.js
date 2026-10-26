@@ -1,4 +1,4 @@
-/* Menu mobile + animations d'apparition. */
+/* Menu mobile + animations d'apparition. Aucun framework nécessaire. */
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
@@ -46,7 +46,7 @@ if (welcomeScreen && discoverButton) {
   });
 }
 
-/* Animation douce quand les sections entrent dans l'écran. */
+/* Animation douce quand les sections entrent dans l'écran */
 
 const revealItems = document.querySelectorAll(".reveal");
 

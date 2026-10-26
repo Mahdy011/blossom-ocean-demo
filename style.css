@@ -195,6 +195,7 @@ blockquote { font-family: var(--serif); font-weight: 400; font-size: clamp(30px,
 .developer-credit strong { color: var(--sage); font-weight: 700; }
 @media (max-width: 700px) { .menu-reference-grid { grid-template-columns: 1fr; } }
 
+
 /* =========================================
    BLOSSOM OCEAN — ECRAN D'ACCUEIL PREMIUM
    ========================================= */
@@ -479,3 +480,4 @@ body.welcome-open {
     transition: none !important;
   }
 }
+
